@@ -1,0 +1,16 @@
+{
+	"name": "winston-syslog",
+	"version": "0.1.0",
+	"description": "Syslog transport for winston",
+	"keywords": [ "syslog", "logging", "transport" ],
+
+	"author": "Tommy Montgomery <tmont@tmont.com> (http://tmont.com/)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tmont/winston-syslog.git"
+	},
+
+	"dependencies": {
+		"posix": "1.0.3"
+	}
+}
