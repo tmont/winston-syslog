@@ -11,6 +11,7 @@
 	},
 
 	"dependencies": {
+		"winston": "0.7.2",
 		"posix": "1.0.3"
 	}
 }
